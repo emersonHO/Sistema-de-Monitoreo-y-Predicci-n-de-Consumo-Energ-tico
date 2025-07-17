@@ -1,0 +1,24 @@
+# Análisis de datos
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.4
+
+# Machine Learning
+scikit-learn==1.4.1.post1
+statsmodels==0.14.1
+pyod==1.1.1   # detección de anomalías (opcional si usaste PyOD)
+
+# Streamlit dashboard
+streamlit==1.35.0
+
+# Conexión a base de datos SQL Server
+pyodbc==5.1.0
+
+# Comunicación con Arduino
+pyserial==3.5
+
+# Generación de informes PDF
+fpdf==1.7.2
+
+# Guardado/carga de modelos
+joblib==1.4.0
